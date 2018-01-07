@@ -4,21 +4,23 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */body
  {
- font-family:'Open Sans',serif;
+ font-family: 'Lato', sans-serif;
  padding-top:54px;
- color:#868e96
+ 
 }
  @media (min-width:992px)
  {
  	body
  	{
  		padding-top:0;
- 		padding-left:17rem
+ 		padding-left:17rem;
+
  	}
  }
  h1,h2,h3,h4,h5,h6
  {
-  color:#343a40
+  color:#343a40;
+  font-family: 'Julius Sans One', sans-serif;
  }
 .projectsection{
 	margin-top: 5%;
